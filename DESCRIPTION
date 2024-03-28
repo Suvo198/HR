@@ -1,0 +1,34 @@
+Package: HR
+Type: package
+Title: HR Test
+Version: 0.1.0
+Author: Subhadeep Banik <baniksubhadeep6991@hotmail.com>
+Maintainer: The package maintainer <baniksubhadeep6991@hotmail.com>
+Description: Aggregate data by time and the passing mark.
+Usage: HR
+Format:
+time series in
+(mm:ss), marks in hundred,Passed Binary (Pass/Fail).
+A multi can be done in that dataset Multi (Cats, Donkey, Sheep).
+
+No  Name  	    Levels
+1   Time	 7.45, 5.46, 6.36, 8.53
+2   Marks	 93, 35, 57, 75
+3   passed       1, 1, 1, 1
+
+Details:
+
+This data set is frequently used for the machine learning iq test.
+At issue is whether the data show evidence of intervew bias in the HR domain,
+and in the machine learning.it is just a sample dataset.In fact,the graphical
+methods showing that Bias Binary (Pass/Fail), Multi (Cats, Donkey, Sheep). Multi
+is a moving running avg.
+
+References:
+Subhadeep Banik.
+Time Series Analysis,
+sample data made for testing purpose.
+
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
