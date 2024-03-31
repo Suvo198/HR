@@ -1,6 +1,6 @@
 
 <a href="https://github.com/Suvo198/HR/blob/main/HR.csv">
-      <img src="https://github.com/Suvo198/HR/blob/main/Hr_Dataset.png">
+      <img src="https://github.com/Suvo198/HR/blob/main/Hr_Dataset.png"width="480">
   </a>
   
 
