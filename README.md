@@ -1,5 +1,11 @@
 
-<h1 align="center">
+<a href="https://github.com/Suvo198/HR/blob/main/HR.csv">
+      <img src="https://github.com/Suvo198/HR/blob/main/Hr_Dataset.png">
+  </a>
+  
+
+	
+ <h1 align="center">
   <br>
   HR Dataset
   <br>
@@ -78,7 +84,7 @@ This software uses the following open source packages:
 
 <p>Or</p> 
 
-<a href="https://www.patreon.com/amitmerchant">
+<a href="https://www.patreon.com/Suvo198">
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
